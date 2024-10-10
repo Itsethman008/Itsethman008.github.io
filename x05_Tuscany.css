@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+ }
+ article {
+     width: 25%;
+  margin: auto;
+  text-align: center;
+  border: 2px solid rgb(28, 28, 59);
+    text-align: start;
+ }
